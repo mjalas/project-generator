@@ -20,18 +20,18 @@ setup(
     ],
     packages=find_packages(exclude=[]),
     install_requires=[
-        'PyYAML==3.13',
+        'PyYAML==4.2b4',
         'Click==7.0',
         'Jinja2==2.10'
     ],
     setup_requires=[
-        'PyYAML==3.13',
+        'PyYAML==4.2b4',
         'Click==7.0'
     ],
     test_suite='nose.collector',
     tests_require=[
         'pytest==3.9.3',
-        'PyYAML==3.13'
+        'PyYAML==4.2b4'
     ],
     entry_points={
         'console_scripts': [
