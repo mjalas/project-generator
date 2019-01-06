@@ -1,5 +1,6 @@
 # Project Generator tool
 [![Build Status](https://travis-ci.org/mjalas/project-generator.svg?branch=master)](https://travis-ci.org/mjalas/project-generator)
+[![Coverage Status](https://coveralls.io/repos/github/mjalas/project-generator/badge.svg?branch=master)](https://coveralls.io/github/mjalas/project-generator?branch=master)
 
 **Still in very early development**
 
