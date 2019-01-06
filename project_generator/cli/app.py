@@ -17,6 +17,7 @@ def cli():
 
 @cli.group()
 def generate():
+    """Commands for generating project and template."""
     pass
 
 
