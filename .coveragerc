@@ -1,0 +1,5 @@
+[run]
+omit =
+    */cli/*
+    *__init__.py
+    setup.py

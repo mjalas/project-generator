@@ -31,6 +31,7 @@ setup(
     test_suite='nose.collector',
     tests_require=[
         'pytest==3.9.3',
+        'pytest-cov==2.6.0',
         'PyYAML==4.2b4'
     ],
     entry_points={
