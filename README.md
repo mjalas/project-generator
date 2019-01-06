@@ -1,4 +1,5 @@
 # Project Generator tool
+[![Build Status](https://travis-ci.org/mjalas/project-generator.svg?branch=master)](https://travis-ci.org/mjalas/project-generator)
 
 **Still in very early development**
 
