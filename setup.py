@@ -32,7 +32,9 @@ setup(
     tests_require=[
         'pytest==3.9.3',
         'pytest-cov==2.6.0',
-        'PyYAML==4.2b4'
+        'PyYAML==4.2b4',
+        'python-coveralls==2.9.1',
+        'coverage==4.4'
     ],
     entry_points={
         'console_scripts': [
