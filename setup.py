@@ -22,7 +22,7 @@ setup(
     install_requires=[
         'PyYAML==4.2b4',
         'Click==7.0',
-        'Jinja2==2.10'
+        'Jinja2==2.10.1'
     ],
     setup_requires=[
         'PyYAML==4.2b4',
