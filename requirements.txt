@@ -6,7 +6,7 @@ Click==7.0
 colorama==0.4.1
 coverage==4.4
 idna==2.8
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.0
 more-itertools==5.0.0
 pluggy==0.8.0
