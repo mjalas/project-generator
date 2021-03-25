@@ -20,19 +20,19 @@ setup(
     ],
     packages=find_packages(exclude=[]),
     install_requires=[
-        'PyYAML==4.2b4',
+        'PyYAML==5.4',
         'Click==7.0',
         'Jinja2==2.10.1'
     ],
     setup_requires=[
-        'PyYAML==4.2b4',
+        'PyYAML==5.4',
         'Click==7.0'
     ],
     test_suite='nose.collector',
     tests_require=[
         'pytest==3.9.3',
         'pytest-cov==2.6.0',
-        'PyYAML==4.2b4',
+        'PyYAML==5.4',
         'python-coveralls==2.9.1',
         'coverage==4.4'
     ],
